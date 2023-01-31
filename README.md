@@ -7,7 +7,7 @@ This is a web based application developed for Dental related based website in in
 
 **Project Link** - https://calm-river-038937e00.2.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/XGcDH9CAvBg
 
 ## Azure technologies used for Project
 
