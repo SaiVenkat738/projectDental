@@ -23,30 +23,34 @@ This is a web based application developed for Dental related based website in in
 - User can know about Dental services information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+## Home :-
+
+![Screenshot (67)](https://user-images.githubusercontent.com/118873633/215791658-e64a9b22-02e7-41b3-bbad-e6dad02aac53.png)
 
 
-![Screenshot (32)](https://user-images.githubusercontent.com/118873633/210055882-0a8a5214-fd8f-418d-af85-247d407db582.png)
 
 
    
 
-### About Us -
-
-![Screenshot (33)](https://user-images.githubusercontent.com/118873633/210055895-b80c0459-ee19-443b-93b1-32828e4ddb2e.png)
+### About Us :-
 
 
-### Services -
-
-![Screenshot (34)](https://user-images.githubusercontent.com/118873633/210055910-84b52de2-fea5-4a65-955b-81d47e904ebf.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/118873633/215791663-868617f1-37c0-4e1f-a4bb-5112a1f82c2e.png)
 
 
-### Contact us -
+### Services :-
 
-![Screenshot (35)](https://user-images.githubusercontent.com/118873633/210055919-029dd403-5cc7-4d8a-8712-15018b946ae6.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/118873633/215791681-918670de-0636-4a8c-88fa-a2bfe442c19c.png)
 
 
-### health bot
+
+### Contact us :-
+
+
+![Screenshot (70)](https://user-images.githubusercontent.com/118873633/215791697-c1053a3f-44f7-4514-9224-085023b1c2f1.png)
+
+
+### Health bot :-
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/118873633/210056015-967414ee-8c8b-4a14-9496-1b27a2dfe8f2.png)
 
